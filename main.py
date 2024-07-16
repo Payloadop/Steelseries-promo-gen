@@ -6,8 +6,7 @@ import os
 from mailtm import Email
 from urllib3.exceptions import InsecureRequestWarning
 import time
-import undetected_chromedriver as uc
-from selenium.webdriver.common.by import By
+
 
 
 

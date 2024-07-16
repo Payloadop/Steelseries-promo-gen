@@ -21,6 +21,7 @@ This script automates the process of generating SteelSeries accounts and fetchin
 - `requests`
 - `tls_client`
 - `mailtm`
+- `Steelseries GG Client`
 
 ## Installation
 1. Clone the repository:

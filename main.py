@@ -96,7 +96,7 @@ def verify_account(email_service, email):
 
             promo_code_url = req.get("promocode", "")
             print(f"Promo: {promo_code_url}")
-            with open ("Promos.txt" 'a')as f:
+            with open("Promos.txt", 'a') as f:  
                 f.write(f"{promo_code_url}\n")
         except requests.exceptions.RequestException as e:
             print(f"Error fetching promo code: {e}")

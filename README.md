@@ -55,6 +55,7 @@ This script automates the process of generating SteelSeries accounts and fetchin
 ## Join Our Community
 - Join our Discord community for support, updates, and more: [https://discord.gg/uzCQ2HzaKs](https://discord.gg/uzCQ2HzaKs)
 - Looking For Saudi-Arabian's Create Ticket If U Are From SA
+- Selling The Fully Automated Version Of This Tool Which Supports Proxy & Can Gen Upto 10k / hour For 250$/Lyf Key
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests. Any improvements or bug fixes are welcome.

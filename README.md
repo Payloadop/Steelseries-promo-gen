@@ -26,7 +26,7 @@ This script automates the process of generating SteelSeries accounts and fetchin
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/steelseries-account-generator.git
+   git clone https://github.com/Payloadop/steelseries-account-generator.git
    cd steelseries-account-generator
    ```
 
